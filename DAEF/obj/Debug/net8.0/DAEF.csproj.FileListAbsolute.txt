@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\bin\Debug\net8.0\DAEF.exe
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\bin\Debug\net8.0\DAEF.deps.json
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\bin\Debug\net8.0\DAEF.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\bin\Debug\net8.0\DAEF.dll
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\bin\Debug\net8.0\DAEF.pdb
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\obj\Debug\net8.0\DAEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\obj\Debug\net8.0\DAEF.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\obj\Debug\net8.0\DAEF.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\obj\Debug\net8.0\DAEF.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\obj\Debug\net8.0\DAEF.dll
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\obj\Debug\net8.0\refint\DAEF.dll
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\obj\Debug\net8.0\DAEF.pdb
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\obj\Debug\net8.0\DAEF.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Week7F\DAEF\obj\Debug\net8.0\ref\DAEF.dll

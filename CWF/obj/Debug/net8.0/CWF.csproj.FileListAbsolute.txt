@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Week7F\CWF\bin\Debug\net8.0\CWF.exe
+C:\Users\Kaspar P\source\repos\Week7F\CWF\bin\Debug\net8.0\CWF.deps.json
+C:\Users\Kaspar P\source\repos\Week7F\CWF\bin\Debug\net8.0\CWF.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Week7F\CWF\bin\Debug\net8.0\CWF.dll
+C:\Users\Kaspar P\source\repos\Week7F\CWF\bin\Debug\net8.0\CWF.pdb
+C:\Users\Kaspar P\source\repos\Week7F\CWF\obj\Debug\net8.0\CWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Week7F\CWF\obj\Debug\net8.0\CWF.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Week7F\CWF\obj\Debug\net8.0\CWF.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Week7F\CWF\obj\Debug\net8.0\CWF.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Week7F\CWF\obj\Debug\net8.0\CWF.dll
+C:\Users\Kaspar P\source\repos\Week7F\CWF\obj\Debug\net8.0\refint\CWF.dll
+C:\Users\Kaspar P\source\repos\Week7F\CWF\obj\Debug\net8.0\CWF.pdb
+C:\Users\Kaspar P\source\repos\Week7F\CWF\obj\Debug\net8.0\CWF.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Week7F\CWF\obj\Debug\net8.0\ref\CWF.dll

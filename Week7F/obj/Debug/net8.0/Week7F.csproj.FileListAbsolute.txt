@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\bin\Debug\net8.0\Week7F.exe
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\bin\Debug\net8.0\Week7F.deps.json
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\bin\Debug\net8.0\Week7F.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\bin\Debug\net8.0\Week7F.dll
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\bin\Debug\net8.0\Week7F.pdb
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\obj\Debug\net8.0\Week7F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\obj\Debug\net8.0\Week7F.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\obj\Debug\net8.0\Week7F.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\obj\Debug\net8.0\Week7F.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\obj\Debug\net8.0\Week7F.dll
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\obj\Debug\net8.0\refint\Week7F.dll
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\obj\Debug\net8.0\Week7F.pdb
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\obj\Debug\net8.0\Week7F.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Week7F\Week7F\obj\Debug\net8.0\ref\Week7F.dll
